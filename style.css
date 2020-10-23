@@ -64,7 +64,7 @@ header section {
 }
 
 #container{ /* to be used for the main body of text to define the text area and center it as best as possible accross multiple display sizes */
-  margin-left:40%;
+  margin-left:37%;
   margin-right:40%;
   margin-bottom: 50px;
   width: 800px;
